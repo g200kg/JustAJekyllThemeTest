@@ -41,6 +41,7 @@ Web Music Developers JPブース出展
 
 -----
 [Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
-[Web Music Developers JP Front Page](https://webmusicdevelopersjp.github.io/)  
+[Web Music Developers JP Front Page](https://developers.webmusic.io/)  
+
 [published page](https://g200kg.github.io/JustAJekyllThemeTest/)
 [GitHub](https://github.com/g200kg/JustAJekyllThemeTest/)
