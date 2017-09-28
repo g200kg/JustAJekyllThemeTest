@@ -3,3 +3,6 @@
 ### test 3
 
 abcdefghijklmnopqrstuvwxyz
+
+[published page](https://g200kg.github.io/JustAJekyllThemeTest/)
+[GitHub](https://github.com/g200kg/JustAJekyllThemeTest/)
