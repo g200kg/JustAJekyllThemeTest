@@ -11,6 +11,12 @@ h1{
   margin:0;
   font-family: 'Poiret One', cursive;
 }
+h2{
+  margin:0 0 1.5em;
+  padding:0.5em;
+  border-left:6px solid #78a0b8;
+  border-bottom:1px solid #78a0b8;
+}
 #main{
   width:90%;
   background:#fcfcfc;
